@@ -1,0 +1,10 @@
+Request from Management
+
+Subject: Request for Dashboard Development: Product Analytics Overview
+
+Revenue by Country: Top-performing regions with corresponding revenue.
+Revenue by Date and Year: Comparative trends
+Profit and Unit Sales Year-over-Year (YoY) Change: High-level summary of YoY growth.
+Revenue Breakdown by Discount Band: Distribution of revenue across different discount categories.
+Detailed Table View: Revenue and profit details by country and year.
+Whatever Else you feel is necessary!
